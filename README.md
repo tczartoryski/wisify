@@ -1,9 +1,9 @@
-# Wisify.ai - Legal Document Summarization Platform
+# Wisify.Ai - Legal Document Summarization Platform
 Welcome to Wisify.ai, a cutting-edge platform designed specifically for legal professionals seeking customized, efficient, and comprehensive summaries of lengthy legal documents. Wisify.ai empowers lawyers and legal researchers by transforming extensive texts into concise, digestible summaries tailored to their specific needs.
 ## Introduction
 In the fast-paced world of law, time is of the essence. Wisify.ai provides an innovative and indispensable tool that allows legal professionals to upload any length document and receive tailored summaries optimized for legal content. Whether you need a quick 5-minute rundown of a case, a 30-minute audio summary for your commute, or an hour-long podcast of a comprehensive document, Wisify.ai has you covered.  
 
-  Please note that this website is planned to be monetized in the future, the source code is not provided. However, you can use the website and explore its features at the following link:  [wisify.ai](https://thefinalapp-frontend-976201422880.us-central1.run.app/auth/sign-in)
+  Please note that this website is planned to be monetized in the future, the source code is not provided. However, you can use the website and explore its features at the following link:  [Wisify.Ai](https://thefinalapp-frontend-976201422880.us-central1.run.app/auth/sign-in)
     
 ## Key Features
 * **Customizable Summary Length:** Choose the duration and depth of the summary based on your requirements, from brief overviews to detailed analyses.  
