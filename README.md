@@ -1,6 +1,8 @@
 # Wisify.Ai - Legal Document Summarization Platform
 Welcome to Wisify.ai, a cutting-edge platform designed specifically for legal professionals seeking customized, efficient, and comprehensive summaries of lengthy legal documents. Wisify.ai empowers lawyers and legal researchers by transforming extensive texts into concise, digestible summaries tailored to their specific needs.
 
+## *** 10/17/2024 - The website is currently down as of 8:00 AM this morning for routine maintenance, the website should be up by Friday afternoon ***
+
 #### Please note that this website is planned to be monetized in the future, the source code is not provided. However, you can use the website and explore its features at the following link:  [Wisify.Ai](https://thefinalapp-frontend-976201422880.us-central1.run.app/auth/sign-in)
 
 ## Introduction
